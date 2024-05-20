@@ -1,0 +1,78 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: R
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Renee
+    family-names: Boucher
+    email: rdbouche@ucsc.edu
+    name-particle: Renee
+    affiliation: 'University of California, Santa Cruz'
+    orcid: 'https://orcid.org/0000-0003-4206-1672'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/rdbouche/Strontium-isotopes-track-female-dispersal-in-Ta-chimpanzees/tree/main
+    description: GitHub Repository
+repository-code: >-
+  https://github.com/rdbouche/Strontium-isotopes-track-female-dispersal-in-Ta-chimpanzees/tree/main
+abstract: >+
+  Abstract
+
+
+  Objectives 
+
+  Chimpanzees (Pan troglodytes) are patrilocal, with males
+  remaining in their natal community and females dispersing
+  when they reach sexual maturity. However, the details of
+  female chimpanzee dispersal, such as their possible
+  origin, are difficult to assess, even in habituated
+  communities. This study investigates the utility of
+  87Sr/86Sr analysis for (1) assessing Sr baseline
+  differences between chimpanzee territories, and (2)
+  identifying the status (immigrant or natal) of females of
+  unknown origin within the territories of five neighboring
+  communities in Taï National Park (Côte d'Ivoire). 
+
+  Materials & Methods 
+
+  To create a local Sr isoscape for the Taï Chimpanzee
+  Project (TCP) study area, we sampled environmental samples
+  from TCP-established territories (n = 35). To assess
+  dispersal patterns, 34 tooth enamel samples (1 per
+  individual) were selected from the Taï chimpanzee skeletal
+  collection. 87Sr/86Sr analysis was performed on all 69
+  samples at the W.M. Keck Lab. The theoretical density and
+  overlap of chimpanzee communities, as well as generalized
+  linear mixed models (GLMMs) were used to test each
+  question. 
+
+  Results 
+
+  87Sr/86Sr ratios for natal male chimpanzees ranged from
+  0.71662 to 0.72187, which is well within the corresponding
+  environmental baseline range of 0.70774 to 0.73460. The
+  local Sr isoscapes fit was estimated with the
+  root-mean-square error (RMSE) value, which was 0.0048 (22%
+  of the whole 87Sr/86Sr data range). GLMMs identified
+  significant differences in 87Sr/86Sr ratios between natal
+  and unknown North community origin groups, suggesting that
+  after 1980, females of unknown origin could be immigrants
+  to North community (n = 7, z-ratio = -4.08, p = 0.0001,
+  power = 0.94).
+
+  Discussion
+   This study indicates that 87Sr/86Sr analysis can successfully identify immigrant females in skeletal collections obtained from wild chimpanzee communities, which enables tracking female dispersal patterns historically. There are, however, significant limitations within the scope of this study, such as (1) the absence of reliable maps for the TCP study area, (2) limited capacity for environmental sampling, (3) small sample sizes, and (4) tooth formation in wild chimpanzees.
+
+keywords:
+  - Strontium
+  - isotopes
+  - R
+  - environment
+  - enamel
+  - chimpanzee
+license: CC-BY-NC-SA-4.0
+date-released: '2024-05-20'
